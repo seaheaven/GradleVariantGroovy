@@ -1,5 +1,5 @@
 基于Android Studio Koala Feature Drop | 2024.1.2版本创建的新项目
-Gradle8.7 AGP 8.6.0 各版本配置参见[Android Studio Koala各种版本傻傻分不清]()
+Gradle8.7 AGP 8.6.0 各版本配置参见[Android Studio Koala各种版本傻傻分不清](https://blog.csdn.net/kuaihuoxian/article/details/144732403?sharetype=blogdetail&sharerId=144732403&sharerefer=PC&sharesource=kuaihuoxian&sharefrom=mp_from_link)
 
 做了两项修改
 - compileSdk改成35
